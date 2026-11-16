@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RestoreSources Condition="'$(NUGET_SOURCE)' != ''">$(NUGET_SOURCE)</RestoreSources>
+  </PropertyGroup>
+</Project>

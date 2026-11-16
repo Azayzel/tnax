@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+.vscode/
+*.user
+*.pfx
+*.p12
+*.key
+*.pem
+*.crt
+*.mobileprovision
+.DS_Store
+artifacts/

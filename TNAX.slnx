@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Tnax.App/Tnax.App.csproj" />
+    <Project Path="src/Tnax.Core/Tnax.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Tnax.Core.Tests/Tnax.Core.Tests.csproj" />
+  </Folder>
+</Solution>
